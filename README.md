@@ -8,12 +8,12 @@
 ![](https://github.com/liuhaoer/ZhiHuDaily/blob/master/img04.png)
 ![](https://github.com/liuhaoer/ZhiHuDaily/blob/master/img05.png)
 ###### 选用的开源项目：
-- RxJava
-- Retrofit
-- Fresco
-- Glide
-- Butterknife
-- VideoListPlayer
-- XRecyclerView
+- [RxJava](https://github.com/ReactiveX/RxJava)
+- [Retrofit](https://github.com/square/retrofit)
+- [Fresco](https://github.com/facebook/fresco)
+- [Glide](https://github.com/bumptech/glide)
+- [Butterknife](https://github.com/JakeWharton/butterknife)
+- [VideoListPlayer](https://github.com/waynell/VideoListPlayer)
+- [XRecyclerView](https://github.com/jianghejie/XRecyclerView)
 
 ###### 欢迎大家star,提issues。
